@@ -1,0 +1,16 @@
+[project]
+name = "reinforcement-learning-portfolio-manager"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gym>=0.26.2",
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.2",
+    "pandas>=2.3.1",
+    "pytest>=8.4.1",
+    "python-dotenv>=1.1.1",
+    "stable-baselines3>=2.7.0",
+    "typer>=0.16.0",
+]

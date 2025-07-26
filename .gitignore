@@ -1,0 +1,38 @@
+# Local environment variables
+.env
+
+# Virtual environment directory
+.venv/
+
+# Python bytecode files
+**pycache**/
+\*.py\[cod]
+\*\$py.class
+
+# pytest cache
+.pytest\_cache/
+
+# mypy cache
+.mypy\_cache/
+
+# Distribution / packaging directories
+build/
+dist/
+\*.egg-info/
+\*.eggs/
+
+# Log files
+logs/
+\*.log
+
+# Model artifacts
+model.zip
+
+# Jupyter Notebook checkpoints
+.ipynb\_checkpoints/
+
+# IDE settings
+.vscode/
+
+# macOS metadata
+.DS\_Store
